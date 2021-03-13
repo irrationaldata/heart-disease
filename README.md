@@ -1,7 +1,7 @@
 # heart-disease
 Heart Disease
 
-Access the explanation of this code on: https://irrationaldata.com/heart-disease/
+Access the explanation of this code on: <a href="https://irrationaldata.com/heart-disease/" target="blank">https://irrationaldata.com/heart-disease/</a>
 
 This is code written in R intended to be utilized on R Studio. To run it properly, ensure that dplyr and randomForest are installed as libraries.
 
